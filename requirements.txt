@@ -1,0 +1,6 @@
+streamlit
+gtts
+textblob
+requests
+matplotlib
+python-dotenv
