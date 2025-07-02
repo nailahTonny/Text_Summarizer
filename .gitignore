@@ -1,0 +1,15 @@
+# Ignore environment variables file (API keys, secrets)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings folder
+.vscode/
